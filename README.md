@@ -1,5 +1,5 @@
 <h1 align="center">Hey! Me chamo Bruno Carlos 🎖️</h1>
-<h3 align="center">Sou desenvolvedor front-end com 19 anos e fissurado por tecnologia. Busco sempre por conhecimento e mantenho foco total em meu desenvolvimento pessoal diariamente. Por aqui publicarei meus projetos a fim de evidenciar minhas capacidades e evolução, portanto, seja bem-vindo e dê uma boa explorada!</h3>
+<p align="center">Sou desenvolvedor front-end com 19 anos e fissurado por tecnologia. Busco sempre por conhecimento e mantenho foco total em meu desenvolvimento pessoal diariamente. Por aqui publicarei meus projetos a fim de evidenciar minhas capacidades e evolução, portanto, seja bem-vindo e dê uma boa explorada!</p>
 
 - 🌱 Atualmente estou aprendendo **React e Node**
 
