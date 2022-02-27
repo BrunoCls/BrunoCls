@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **React e Node**
 
-- 👨‍💻 Viste meu portfolio em [www.portfolio.com.br](www.portfolio.com.br)
+- 👨‍💻 Viste meu <a href="https://brunocls.github.io/BrunoCls-portfolio/index">portfolio</a>
 
 - 📫 Entre em contato: **brunocarlos003@gmail.com**
 
